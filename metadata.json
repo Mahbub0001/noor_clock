@@ -1,0 +1,6 @@
+{
+  "name": "Noor Clock",
+  "description": "Smart Alarm Clock, Checklist Productivity, Weather forecasts and Location-based Islamic Prayer (Salah, Tahajjud, Suhoor) with rich custom multimedia and elegant pastel themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
